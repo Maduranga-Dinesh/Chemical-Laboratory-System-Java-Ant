@@ -1,2 +1,6 @@
 # Chemical-Laboratory-System-Java-Ant
-Java Ant Application
+
+Central CE-Laboratory warehouse management system	
+
+Net Beans Java Ant
+All the libraries + Database are included.
